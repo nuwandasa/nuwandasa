@@ -7,12 +7,12 @@ I'm a Test Engineer based in Oulu, Finland, with approximately six years of prof
 My work focuses on designing reliable automated tests, improving software quality and integrating testing into CI/CD pipelines.
 
 **Technical skills**
-- Test Automation: Playwright, Selenium
+- Test Automation: Robot Framework, Playwright, Selenium
 - Programming: JavaScript, Python
 - API Testing: Postman
 - CI/CD: GitLab CI/CD, GitHub, Jenkins
 - Tools: Docker, Git, Jira
-- Currently Learning: Robot Framework
+
 
 **What I'm working on**
 - Building and documenting test automation frameworks
