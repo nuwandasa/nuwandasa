@@ -1,7 +1,22 @@
-# Hello, welcome to my space!  
-## My name is Nuwan Dassanayake  
-🚀 Test Automation Engineer | 🏏 Hobby Cricketer | 🎥 Content Creator | 📢 Tech Enthusiast  
+# Hi, I'm Nuwan 👋
 
-### 💼 Work Experience  
-- **Q4US Oy, Oulu, Finland** (January 2022 - Present)  
-- **Trussmatic Oy** (July 2018 - June 2020)  
+### Test Engineer | Test Automation | CI/CD
+
+I'm a Test Engineer based in Oulu, Finland, with approximately six years of professional experience in software testing, automation and engineering.
+
+My work focuses on designing reliable automated tests, improving software quality and integrating testing into CI/CD pipelines.
+
+**Technical skills**
+- Test Automation: Playwright, Selenium
+- Programming: JavaScript, Python
+- API Testing: Postman
+- CI/CD: GitLab CI/CD, GitHub, Jenkins
+- Tools: Docker, Git, Jira
+- Currently Learning: Robot Framework
+
+**What I'm working on**
+- Building and documenting test automation frameworks
+- Expanding my Robot Framework skills
+- Exploring modern software quality engineering practices
+
+**Open to opportunities:** Test Engineer, QA Automation Engineer, Software Verification Engineer and DevOps-related roles in Finland.
